@@ -37,6 +37,8 @@ require (
 	k8s.io/apimachinery v0.24.4
 )
 
+replace github.com/variantdev/chartify => github.com/Dokify/chartify v0.11.1
+
 require (
 	cloud.google.com/go v0.100.2 // indirect
 	cloud.google.com/go/compute v1.3.0 // indirect
