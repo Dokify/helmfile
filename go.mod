@@ -35,6 +35,8 @@ require (
 
 replace gopkg.in/yaml.v3 => github.com/colega/go-yaml-yaml v0.0.0-20220720070545-aaba007ebc22
 
+replace github.com/helmfile/chartify => github.com/Dokify/chartify v0.16.1
+
 require (
 	cloud.google.com/go v0.110.7 // indirect
 	cloud.google.com/go/compute v1.23.0 // indirect
